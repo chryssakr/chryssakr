@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **chryssakr/chryssakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,14 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Chryssa Karatza</h1>
-<h3 align="center">a Junior Software Engineer based in London 🎡</h3>
+<h1 align="center">Hi 👋  I'm Chryssa Karatza</h1>
+<h3 align="center">a Junior Software Engineer based in London  🎡</h3>
 
 - 🔭 I’m looking for **my first full-time position**
 
 - 🌱 I’m currently learning microservices at [freecodecamp](https://www.freecodecamp.org/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
