@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m looking for **my first full-time position**
 
-- 🌱 I’m currently learning microservices at [freecodecamp](https://www.freecodecamp.org/)
+- 🌱 Currently automating the boring stuff with Python 🐍
 
 <p align="left">
 </p>
