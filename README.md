@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m looking for **my first full-time position**
 
-- 🌱 Currently automating the boring stuff with Python 🐍
+- 🌱 Currently learning Python 🐍 with <a href = "https://codefirstgirls.com/">Code First Girls</a>
 
 <p align="left">
 </p>
