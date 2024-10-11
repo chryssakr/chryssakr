@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋  I'm Chryssa Karatza</h1>
 <h3 align="center">a Junior Software Engineer based in London  🎡</h3>
 
-- 🔭 I’m looking for **my first full-time position**
+- 🔭 Studying Electrical and Computer Engineering
 
-- 🌱 Currently learning Python 🐍 with <a href = "https://codefirstgirls.com/">Code First Girls</a>
+- 🌱 Currently working with C and Python 🐍</a>
 
 <p align="left">
 </p>
