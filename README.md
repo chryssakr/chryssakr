@@ -19,7 +19,7 @@ source for devicons: https://youtu.be/G-EGDH50hGE?si=B4Qjo_lSEEolyhwS
 <h1 align="center">Hi 👋  I'm Chryssa Karatza</h1>
 <h3 align="center">a Junior Software Engineer based in London  🎡</h3>
 
-- 🌱 Currently working with C and Python 🐍</a>
+- 🌱 Currently working with Python 🐍</a>
 
 <p align="left">
 </p>
