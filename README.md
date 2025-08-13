@@ -17,9 +17,9 @@ source for devicons: https://youtu.be/G-EGDH50hGE?si=B4Qjo_lSEEolyhwS
 -->
 
 <h1 align="center">Hi 👋  I'm Chryssa Karatza</h1>
-<h3 align="center">a Junior Software Engineer based in London  🎡</h3>
+<h3 align="center">a Software Engineer based in London 🎡</h3>
 
-- 🌱 Currently working with Python 🐍</a>
+- 🌱 Currently working with Golang and Python 🐍 at Thought Machine </a>
 
 <p align="left">
 </p>
